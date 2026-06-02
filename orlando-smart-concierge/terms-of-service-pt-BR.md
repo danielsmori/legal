@@ -2,6 +2,7 @@
 
 **Última atualização:** 2 de junho de 2026
 **Data de vigência:** A partir da instalação ou primeiro uso
+**Lei aplicável:** República Federativa do Brasil
 
 Estes Termos regem o uso do Orlando Smart Concierge (o "App"), publicado por Daniel Mori. Ao instalar ou usar o App, você concorda com estes Termos. Se você não concorda, não instale nem use o App.
 
@@ -112,11 +113,25 @@ Algumas jurisdições não permitem certas limitações de responsabilidade. Ond
 
 Você concorda em indenizar e isentar Daniel Mori de qualquer reivindicação decorrente de (a) seu uso indevido do App, (b) sua violação destes Termos, ou (c) conteúdo que você submeter ao App.
 
-## 11. Lei Aplicável
+## 11. Lei Aplicável e Foro
 
-Estes Termos são regidos pelas leis do Estado da Flórida, Estados Unidos, sem considerar seus princípios de conflito de leis. Qualquer disputa será resolvida nos tribunais do Condado de Orange, Flórida.
+Estes Termos são regidos pelas leis da **República Federativa do Brasil**, sem considerar seus princípios de conflito de leis. O publicador do App, Daniel Mori, é pessoa física residente no Brasil.
 
-Se você é um consumidor residente no Brasil, na União Europeia ou no Reino Unido, esta disposição não o priva das proteções de normas obrigatórias do direito do consumidor da sua jurisdição. Para consumidores brasileiros, aplicam-se as proteções do Código de Defesa do Consumidor (Lei 8.078/1990).
+### Consumidores no Brasil
+
+Se você é consumidor sob o Código de Defesa do Consumidor (Lei Federal 8.078/1990), nada nestes Termos limita os direitos que essa lei lhe garante. Você pode propor qualquer ação de consumo no foro do seu próprio domicílio (Art. 101, I, do CDC), e as normas de proteção ao consumidor do CDC se aplicam independentemente de qualquer cláusula em contrário nestes Termos.
+
+### Consumidores fora do Brasil
+
+Se você é consumidor residente na União Europeia, no Reino Unido, nos Estados Unidos (incluindo proteções estaduais como o CCPA/CPRA da Califórnia) ou em qualquer outra jurisdição, esta cláusula não o priva das normas obrigatórias de proteção ao consumidor do seu país de residência. Você também pode propor ação sob a lei consumerista do seu domicílio quando a lei local assim exigir.
+
+### Disputas não-consumeristas
+
+Para disputas que não sejam de consumo, as partes elegem o foro da Comarca de São Paulo, Estado de São Paulo, Brasil, como foro exclusivo, com renúncia expressa a qualquer outro.
+
+### Papel da Apple
+
+A Apple é a comerciante registrada (merchant of record) das compras do Trip Pass sob os próprios termos da Apple. Disputas sobre a cobrança em si (reembolsos, erros de cobrança) são regidas pelas políticas da Apple e tratadas pelos canais de suporte da Apple, não por estes Termos.
 
 ## 12. Alterações nestes Termos
 

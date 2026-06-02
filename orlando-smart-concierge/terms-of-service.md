@@ -2,6 +2,7 @@
 
 **Last updated:** June 2, 2026
 **Effective date:** Upon installation or first use
+**Governing law:** Federative Republic of Brazil
 
 These Terms govern your use of Orlando Smart Concierge (the "App"), published by Daniel Mori. By installing or using the App, you agree to these Terms. If you do not agree, do not install or use the App.
 
@@ -112,11 +113,25 @@ Some jurisdictions do not allow certain limitations of liability. Where applicab
 
 You agree to indemnify and hold harmless Daniel Mori from any claim arising out of (a) your misuse of the App, (b) your violation of these Terms, or (c) content you submit to the App.
 
-## 11. Governing Law
+## 11. Governing Law and Jurisdiction
 
-These Terms are governed by the laws of the State of Florida, United States, without regard to its conflict-of-law principles. Any dispute will be resolved in the courts of Orange County, Florida.
+These Terms are governed by the laws of the **Federative Republic of Brazil**, without regard to its conflict-of-law principles. The publisher of the App, Daniel Mori, is an individual resident in Brazil.
 
-If you are a consumer resident in the European Union, the United Kingdom, or Brazil, this provision does not deprive you of the protections of mandatory consumer-law provisions in your jurisdiction.
+### Consumers in Brazil
+
+If you are a consumer in Brazil under the Código de Defesa do Consumidor (Federal Law 8.078/1990), nothing in these Terms limits the rights guaranteed to you by that law. You may bring any consumer dispute in the courts of your own domicile (Art. 101, I, CDC), and the consumer-protection rules of the CDC apply regardless of any contrary clause in these Terms.
+
+### Consumers outside Brazil
+
+If you are a consumer resident in the European Union, the United Kingdom, the United States (state-law consumer protections, including but not limited to California's CCPA/CPRA), or any other jurisdiction, this provision does not deprive you of the mandatory consumer-protection rules of your home jurisdiction. You may also bring a claim under the consumer-protection law of your residence where local law requires it.
+
+### Non-consumer disputes
+
+For disputes that are not consumer disputes, the parties elect the courts of the City of São Paulo, State of São Paulo, Brazil, as the exclusive forum, expressly waiving any other.
+
+### Apple's role
+
+Apple is the merchant of record for Trip Pass purchases under Apple's own terms. Disputes about the charge itself (refunds, billing errors) are governed by Apple's policies and handled through Apple's support channels, not by these Terms.
 
 ## 12. Changes to These Terms
 
