@@ -10,6 +10,12 @@ Privacy policies, terms of service, and support pages for apps published by dani
 - [Terms of Service (Português do Brasil)](./orlando-smart-concierge/terms-of-service-pt-BR.md)
 - [Support](./orlando-smart-concierge/support.md)
 
+## Frames
+
+- [Privacy Policy](./frames/privacy-policy.md)
+- [Terms of Service](./frames/terms-of-service.md)
+- [Support](./frames/support.md)
+
 ---
 
-Questions: [support@orlandosmartconcierge.app](mailto:support@orlandosmartconcierge.app)
+Questions: [danmoriyt@gmail.com](mailto:danmoriyt@gmail.com)
