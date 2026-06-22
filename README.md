@@ -10,6 +10,11 @@ Privacy policies, terms of service, and support pages for apps published by dani
 - [Terms of Service (Português do Brasil)](./orlando-smart-concierge/terms-of-service-pt-BR.md)
 - [Support](./orlando-smart-concierge/support.md)
 
+## Combinação da Sorte
+
+- [Política de Privacidade](./combinacao-da-sorte/privacy-policy-pt-BR.md)
+- [Suporte](./combinacao-da-sorte/support.md)
+
 ## Frames
 
 - [Privacy Policy](./frames/privacy-policy.md)
