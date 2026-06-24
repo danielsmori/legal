@@ -9,8 +9,8 @@ Entre em contato por e-mail:
 Inclua, se possível:
 
 - Modelo do dispositivo
-- Versão do iOS
+- Versão do iOS ou Android
 - Versão do app
 - Descrição do problema
 
-O app não realiza apostas, não é afiliado à Caixa Econômica Federal e não promete ou garante prêmios. Ele apenas organiza combinações matemáticas para facilitar a conferência e o planejamento dos seus jogos.
+O app não realiza apostas, não processa pagamentos de apostas, não é afiliado à Caixa Econômica Federal e não promete ou garante prêmios. Ele apenas organiza combinações matemáticas para facilitar a conferência e o planejamento das suas listas.
