@@ -15,6 +15,12 @@ Privacy policies, terms of service, and support pages for apps published by dani
 - [Política de Privacidade](./combinacao-da-sorte/privacy-policy-pt-BR.md)
 - [Suporte](./combinacao-da-sorte/support.md)
 
+## Falou
+
+- [Política de Privacidade](./falou/privacy-policy-pt-BR.md)
+- [Termos de Uso](./falou/terms-of-service-pt-BR.md)
+- [Suporte](./falou/support.md)
+
 ## Frames
 
 - [Privacy Policy](./frames/privacy-policy.md)
