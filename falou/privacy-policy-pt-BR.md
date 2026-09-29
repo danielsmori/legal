@@ -1,6 +1,6 @@
 # Política de Privacidade — Falou
 
-**Última atualização:** 29 de setembro de 2026
+**Última atualização:** 29 de setembro de 2026 (prevenção de abuso)
 **Data de vigência:** A partir da criação da conta ou do primeiro uso do app
 
 Esta Política de Privacidade explica como o Falou ("nós", "o serviço") trata dados pessoais, de acordo com a Lei Geral de Proteção de Dados Pessoais (Lei nº 13.709/2018, "LGPD").
@@ -37,6 +37,9 @@ O microfone só é usado enquanto você segura a tecla de ditado (ou no modo mã
 
 ### 1.3 Uso do serviço
 A cada ditado registramos: data e hora, número de palavras, duração do áudio, modo usado (por exemplo, "traduzir para inglês"), provedor que processou, tempo de processamento e versão do app. Esses dados são necessários para aplicar os limites do plano (por exemplo, as 1.000 palavras semanais do plano Grátis) e para acompanhar a qualidade do serviço. **Não incluem o conteúdo do que você ditou.**
+
+### 1.3.1 Prevenção de abuso
+Para que o período de teste e a cota do plano Grátis valham uma vez por pessoa, cada ditado leva também um **identificador aleatório da instalação do app** no seu Mac, e comparamos contas que usam variações do mesmo e-mail (por exemplo, `nome+teste@gmail.com` e `nome@gmail.com`). Contas ligadas pelo mesmo e-mail ou pelo mesmo Mac compartilham um único período de teste e a mesma cota semanal gratuita. Esse identificador não revela quem você é e é usado mesmo com as estatísticas desligadas, porque é necessário para aplicar os limites dos planos. Também recusamos cadastros com e-mails temporários (descartáveis).
 
 ### 1.4 Cobrança
 Ao assinar o plano Pro, pedimos seu nome e CPF ou CNPJ, que são enviados ao Asaas para gerar a cobrança e a nota fiscal. Os dados de pagamento (cartão, Pix ou boleto) são informados diretamente na página do Asaas; não temos acesso ao número do cartão.

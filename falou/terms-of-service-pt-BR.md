@@ -23,8 +23,8 @@ Você entra com seu e-mail e um código enviado para ele. A conta é pessoal e i
 
 | Plano | Preço | O que inclui |
 |---|---|---|
-| Teste | Grátis | 14 dias do plano Pro, contados a partir do primeiro ditado, uma vez por pessoa |
-| Grátis | R$ 0 | 1.000 palavras por semana; a contagem reinicia toda segunda-feira às 00:00 (UTC) |
+| Teste | Grátis | 14 dias do plano Pro, contados a partir do primeiro ditado, uma vez por pessoa (contas do mesmo e-mail ou do mesmo Mac compartilham um único teste) |
+| Grátis | R$ 0 | 1.000 palavras por semana por pessoa; a contagem reinicia toda segunda-feira às 00:00 (UTC) |
 | Pro Mensal | R$ 29,90 por mês | Ditado ilimitado, com uso justo |
 | Pro Anual | R$ 239 por ano | Ditado ilimitado, com uso justo |
 
