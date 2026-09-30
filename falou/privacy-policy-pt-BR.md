@@ -67,7 +67,7 @@ Compartilhamos dados apenas com os fornecedores necessários para prestar o serv
 |---|---|---|
 | Groq, Inc. | EUA | Áudio e texto, para transcrição e tradução |
 | OpenAI, L.L.C. | EUA | Áudio e texto, **somente como reserva** quando a Groq está indisponível |
-| Supabase, Inc. | EUA (servidores na região de São Paulo) | Conta, uso e dados de assinatura |
+| Supabase, Inc. | EUA (servidores na Virgínia) | Conta, uso e dados de assinatura |
 | Asaas Gestão Financeira S.A. | Brasil | Nome, CPF/CNPJ, e-mail e dados de cobrança |
 | Cloudflare, Inc. | EUA | Hospedagem do site |
 | Resend, Inc. | EUA | Envio do e-mail com o código de login |
