@@ -114,6 +114,6 @@ Podemos atualizar esta política. Mudanças relevantes serão avisadas por e-mai
 ## 11. Contato
 
 Encarregado pelo tratamento de dados: Daniel Mori
-E-mail: [danmoriyt@gmail.com](mailto:danmoriyt@gmail.com)
+E-mail: [contato@falou.dev](mailto:contato@falou.dev)
 
 [Termos de Uso](./terms-of-service-pt-BR.md) · [Suporte](./support.md)

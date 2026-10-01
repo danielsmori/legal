@@ -4,7 +4,7 @@ Precisa de ajuda com o Falou?
 
 Entre em contato por e-mail:
 
-[danmoriyt@gmail.com](mailto:danmoriyt@gmail.com)
+[contato@falou.dev](mailto:contato@falou.dev)
 
 Inclua, se possível:
 

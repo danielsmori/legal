@@ -91,6 +91,6 @@ Estes termos seguem as leis brasileiras. Fica eleito o foro do domicílio do con
 
 ## 16. Contato
 
-E-mail: [danmoriyt@gmail.com](mailto:danmoriyt@gmail.com)
+E-mail: [contato@falou.dev](mailto:contato@falou.dev)
 
 [Política de Privacidade](./privacy-policy-pt-BR.md) · [Suporte](./support.md)
