@@ -17,9 +17,9 @@ Privacy policies, terms of service, and support pages for apps published by dani
 
 ## Falou
 
-- [Política de Privacidade](./falou/privacy-policy-pt-BR.md)
-- [Termos de Uso](./falou/terms-of-service-pt-BR.md)
-- [Suporte](./falou/support.md)
+- [Política de Privacidade](https://falou.dev/privacidade)
+- [Termos de Uso](https://falou.dev/termos)
+- [Suporte](https://falou.dev/suporte)
 
 ## Frames
 

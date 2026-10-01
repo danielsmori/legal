@@ -4,6 +4,7 @@ description: Privacy policies, terms of service, and support pages for apps publ
 markdown: kramdown
 plugins:
   - jekyll-relative-links
+  - jekyll-redirect-from
 relative_links:
   enabled: true
   collections: true
